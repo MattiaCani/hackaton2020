@@ -1,2 +1,2 @@
 # hackaton2020
-![schema](https://github.com/MattiaCani/hackaton2020/assets/81627228/b084f220-d63b-4c1f-a2a0-0a7bf18110c9)
+![schema (1)](https://github.com/MattiaCani/hackaton2020/assets/81627228/9f3f9686-01ae-446b-bb92-1f7c651396d0)
